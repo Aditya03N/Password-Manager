@@ -1,16 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+From this project, I learned how to connect our external Apps with backend, how to save our data using MongoDB. before this project, I was always feared about How the Workflow of the backend and frontend. And after this project, I'm kind of confident, and now I can confidently say that I can also build bigger projects. And these learnings are remarkable, which will give a boost to my MERN Stack learning journey. And after that, I'm willing to work on much bigger projects where I will use APIs, and after that, I will move forward on the client work. Now, my current focus is on developing  smart projects using APIs, backends, etc.
